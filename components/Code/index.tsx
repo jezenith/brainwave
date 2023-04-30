@@ -94,7 +94,7 @@ const Code = ({ items }: CodeProps) => {
                 </div>
             </div>
             <div className="">
-                Note: This is just an example of a simple HTML form. In a
+                Note: This is  just an example of a simple HTML form. In a
                 real-world scenario, you would also want to include proper
                 validation and handling of the form data on the server side.
             </div>
